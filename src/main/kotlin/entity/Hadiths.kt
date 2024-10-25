@@ -2,7 +2,7 @@ package entity
 
 data class Hadiths(
     val current_page: Int,
-    val `data`: List<Data>,
+    val data: List<Data>,
     val first_page_url: String,
     val from: Int,
     val last_page: Int,

@@ -5,6 +5,5 @@ data class Chapter(
     val chapterArabic: String,
     val chapterEnglish: String,
     val chapterNumber: String,
-    val chapterUrdu: String,
     val id: Int
 )
