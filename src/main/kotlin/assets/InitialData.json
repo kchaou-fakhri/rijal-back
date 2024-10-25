@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "User 1",
+    "birthDay": "1991-01-01T00:00:00Z",
+    "deadDay": "2051-01-01T00:00:00Z",
+    "description": "This is a description for User 1.",
+    "hisTeachers" : [],
+    "hisStudents": [2,3,4,5]
+  },
+  {
+    "id": 2,
+    "name": "User 2",
+    "birthDay": "1992-01-01T00:00:00Z",
+    "deadDay": "2052-01-01T00:00:00Z",
+    "description": "This is a description for User 2.",
+    "hisTeachers" : [1],
+    "hisStudents": []
+  },
+  {
+    "id": 3,
+    "name": "User 3",
+    "birthDay": "1993-01-01T00:00:00Z",
+    "deadDay": "2053-01-01T00:00:00Z",
+    "description": "This is a description for User 3.",
+    "hisTeachers" : [1],
+    "hisStudents": []
+  },
+  {
+    "id": 4,
+    "name": "User 4",
+    "birthDay": "1994-01-01T00:00:00Z",
+    "deadDay": "2054-01-01T00:00:00Z",
+    "description": "This is a description for User 4.",
+    "hisTeachers" : [1],
+    "hisStudents": []
+  },
+  {
+    "id": 5,
+    "name": "User 5",
+    "birthDay": "1995-01-01T00:00:00Z",
+    "deadDay": "2055-01-01T00:00:00Z",
+    "description": "This is a description for User 5.",
+    "hisTeachers" : [1],
+    "hisStudents": []
+  }
+]
