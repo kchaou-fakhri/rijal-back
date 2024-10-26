@@ -1,4 +1,4 @@
-package data.local
+package datamanager.data.local
 
 import com.google.gson.Gson
 import java.io.File

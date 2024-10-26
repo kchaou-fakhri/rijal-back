@@ -1,9 +1,9 @@
-package data.remote
+package datamanager.data.remote
 
 import com.google.gson.Gson
 import com.squareup.okhttp.OkHttpClient
 import com.squareup.okhttp.Request
-import data.local.FileManager
+import datamanager.data.local.FileManager
 import entity.Response
 import io.realm.kotlin.internal.platform.runBlocking
 import utils.Constants
